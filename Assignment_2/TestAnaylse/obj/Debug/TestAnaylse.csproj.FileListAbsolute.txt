@@ -1,0 +1,12 @@
+C:\Users\paras\source\repos\Assignment_2\TestAnaylse\bin\Debug\TestAnaylse.dll
+C:\Users\paras\source\repos\Assignment_2\TestAnaylse\bin\Debug\TestAnaylse.pdb
+C:\Users\paras\source\repos\Assignment_2\TestAnaylse\bin\Debug\Assignment_2.exe
+C:\Users\paras\source\repos\Assignment_2\TestAnaylse\bin\Debug\nunit.framework.dll
+C:\Users\paras\source\repos\Assignment_2\TestAnaylse\bin\Debug\Assignment_2.pdb
+C:\Users\paras\source\repos\Assignment_2\TestAnaylse\bin\Debug\Assignment_2.exe.config
+C:\Users\paras\source\repos\Assignment_2\TestAnaylse\bin\Debug\nunit.framework.xml
+C:\Users\paras\source\repos\Assignment_2\TestAnaylse\obj\Debug\TestAnaylse.csprojAssemblyReference.cache
+C:\Users\paras\source\repos\Assignment_2\TestAnaylse\obj\Debug\TestAnaylse.csproj.CoreCompileInputs.cache
+C:\Users\paras\source\repos\Assignment_2\TestAnaylse\obj\Debug\TestAnaylse.csproj.CopyComplete
+C:\Users\paras\source\repos\Assignment_2\TestAnaylse\obj\Debug\TestAnaylse.dll
+C:\Users\paras\source\repos\Assignment_2\TestAnaylse\obj\Debug\TestAnaylse.pdb
